@@ -10,7 +10,7 @@ import openai
 app = Flask(__name__)
 
 # Load the trained model and scaler
-model = pickle.load(open(model.pkl', 'rb'))
+model = pickle.load(open('model.pkl', 'rb'))
 scaler = pickle.load(open('scaler.pkl', 'rb'))
 
 # Add your OpenAI API key here
