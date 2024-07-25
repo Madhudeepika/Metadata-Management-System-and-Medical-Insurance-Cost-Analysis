@@ -18,7 +18,7 @@ openai.api_key = 'your_openai_api_key'
 
 @app.route('/')
 def home():
-    return render_template('/content/index.html')
+    return render_template('index.html')
 
 @app.route('/predict', methods=['POST'])
 def predict():
