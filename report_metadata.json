@@ -1,0 +1,26 @@
+{
+    "great_expectations_report": {
+        "type": "Great Expectations",
+        "date_created": "2024-07-24 12:27:00",
+        "description": "Great Expectations validation report for data quality.",
+        "file_path": "great_expectations_report.html"
+    },
+    "sweetviz_report": {
+        "type": "Sweetviz",
+        "date_created": "2024-07-24 12:27:00",
+        "description": "Sweetviz visualizations for exploratory data analysis.",
+        "file_path": "report.html"
+    },
+    "dtale_report": {
+        "type": "Dtale",
+        "date_created": "2024-07-24 12:27:00",
+        "description": "Dtale interactive data exploration report.",
+        "file_path": "dataframe_view.html"
+    },
+    "pandas_profiling_report": {
+        "type": "Pandas Profiling",
+        "date_created": "2024-07-24 12:27:00",
+        "description": "Pandas Profiling detailed exploratory data analysis.",
+        "file_path": "pandas_profiling_report.html"
+    }
+}
